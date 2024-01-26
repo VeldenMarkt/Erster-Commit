@@ -1,0 +1,18 @@
+# Build und Release Ordner
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Andere Dateien und Ordner
+.settings/
+
+# Ausführbare Dateien
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Projektdateien, z. B. `.project`, `.actionScriptProperties` und `.flexProperties`
+# sollten NICHT ausgeschlossen werden, da sie Compiler-Einstellungen und andere wichtige
+# Informationen für Eclipse / Flash Builder enthalten.
